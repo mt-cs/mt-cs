@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mt-cs/mt-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 💻 I’m looking for SWE Internship and AI/ML open source to contribute to!
-## 💬 How to reach me: https://www.linkedin.com/in/marisatania/
-## 😄 Pronouns: She/ Her/ Hers
-## 🌭 Hotdog and not hotdog
+**mt-cs/mt-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 <h2> 👋 Hey there! I'm Marisa. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
