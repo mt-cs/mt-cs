@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 About Me </h3>
 
-- 💻 &nbsp; I’m looking for SWE Internship and AI/ML open source to contribute to!
+- 💻 &nbsp; I’m looking for SWE Internship and AI/ML open source projects to contribute to!
 - 💬 &nbsp; How to reach me: https://www.linkedin.com/in/marisatania/
 - 🦄 &nbsp; Pronouns: She/ Her/ Hers
 - 🌭 &nbsp; Hotdog and not hotdog
