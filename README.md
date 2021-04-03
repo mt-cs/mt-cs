@@ -13,11 +13,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - ⌨️ &nbsp; Java | Python | C | Swift  
-- ⚙️ &nbsp; numpy | pandas | pomegranate | tensor flow | skLearn
+- ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn
 - 🌐 &nbsp; iOS | HTML | CSS 
 - 🛢 &nbsp; MySQL | SQLlite | Firebase
 - 🔧 &nbsp; Intellij | PyCharm | Visual Studio code | Eclipse | Git | XCode | Micro | Jupyter Lab
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 👩🏼‍🎨 &nbsp; Adobe InDesign | Illustrator | Photoshop | Premiere
 
 <h3> 🤝🏻 Let's connect! </h3>
 
