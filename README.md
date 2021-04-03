@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; I’m looking for SWE Internship and AI/ML open source to contribute to!
 - 💬 &nbsp; How to reach me: https://www.linkedin.com/in/marisatania/
-- 🦄 Pronouns: She/ Her/ Hers
+- 🦄 &nbsp; Pronouns: She/ Her/ Hers
 - 🌭 &nbsp; Hotdog and not hotdog
 
 ![hotdog](https://user-images.githubusercontent.com/60201466/113470898-9fb72e00-940d-11eb-99f1-8ae83044a2aa.gif)
@@ -18,15 +18,6 @@
 - 🛢 &nbsp; MySQL | SQLlite | Firebase
 - 🔧 &nbsp; Intellij | PyCharm | Visual Studio code | Eclipse | Git | XCode | Micro | Jupyter Lab
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mt-cs's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mt-cs/github-readme-stats)
-
 
 <h3> 🤝🏻 Let's connect! </h3>
 
