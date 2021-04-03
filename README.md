@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**mt-cs/mt-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 <h2> 👋 Hey there! I'm Marisa. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
