@@ -8,7 +8,7 @@
 - 🌭 &nbsp; Hotdog and Not hotdog
 
 ![hotdog](https://user-images.githubusercontent.com/60201466/113470898-9fb72e00-940d-11eb-99f1-8ae83044a2aa.gif)
-
+<img src="https://user-images.githubusercontent.com/60201466/113470898-9fb72e00-940d-11eb-99f1-8ae83044a2aa.gif" width="500">
 
 <h3>🛠 Tech Stack</h3>
 
