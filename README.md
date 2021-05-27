@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ⌨️ &nbsp; Java | Python | C | Swift  
+- ⌨️ &nbsp; Java | Python | C | Go | Swift  
 - ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn
 - 🌐 &nbsp; iOS | HTML | CSS 
 - 🛢 &nbsp; SQLlite | MySQL | Firebase
