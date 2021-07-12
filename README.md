@@ -15,7 +15,7 @@
 - ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn
 - 🌐 &nbsp; iOS | HTML | CSS 
 - 🛢 &nbsp; SQLlite | MySQL | Firebase
-- 🔧 &nbsp; Intellij | PyCharm | VSCode | Eclipse | Git | XCode | Micro | Jupyter Lab
+- 🔧 &nbsp; Intellij | PyCharm | VSCode | Eclipse | Git | XCode | Micro | Jupyter Lab | ObservableHQ
 - 👩🏼‍🎨 &nbsp; Adobe InDesign | Illustrator | Photoshop | Premiere
 
 <h3> 🤝🏻 Let's connect! </h3>
