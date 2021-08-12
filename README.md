@@ -5,7 +5,7 @@
 - 💻 &nbsp; I’m looking for SWE Internship and AI/ML open source projects to contribute to!
 - 💬 &nbsp; How to reach me: https://www.linkedin.com/in/marisatania/
 - 🦄 &nbsp; Pronouns: She/ Her/ Hers
-- 🌭 &nbsp; Hotdog and Not hotdog
+- 🌭 &nbsp; Hotdog and Not hotDog
 
 <img src="https://user-images.githubusercontent.com/60201466/129272454-0ffe351c-3dc4-467a-889f-3ea01e5c1860.gif" width="650">
 
