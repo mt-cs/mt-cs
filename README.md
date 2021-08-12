@@ -7,7 +7,7 @@
 - 🦄 &nbsp; Pronouns: She/ Her/ Hers
 - 🌭 &nbsp; Hotdog and Not hotdog
 
-<img src="https://user-images.githubusercontent.com/60201466/113470898-9fb72e00-940d-11eb-99f1-8ae83044a2aa.gif" width="650">
+![HOTDOG](https://user-images.githubusercontent.com/60201466/129269654-da35362f-9252-481e-adb8-e1b598ad7cc2.gif)
 
 <h3>🛠 Tech Stack</h3>
 
