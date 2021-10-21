@@ -11,11 +11,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ⌨️ &nbsp; Java | Python | C | Go | Swift  
+- ⌨️ &nbsp; Java | Python | C | Go | Javascript
 - ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn
-- 🌐 &nbsp; iOS | HTML | CSS 
-- 🛢 &nbsp; SQLlite | MySQL | Firebase
-- 🔧 &nbsp; Intellij | PyCharm | VSCode | Eclipse | Git | XCode | Micro | Jupyter Lab | ObservableHQ
+- 🌐 &nbsp; React.js | HTML | CSS | Django| Swift | iOS
+- 🛢 &nbsp; SQLlite | MySQL | PostgresSQL | Firebase
+- 🔧 &nbsp; Git | Intellij | PyCharm | VSCode | Cloud9 | XCode | Micro | Jupyter Lab | ObservableHQ
 - 👩🏼‍🎨 &nbsp; Adobe InDesign | Illustrator | Photoshop | Premiere
 
 <h3> 🤝🏻 Let's connect! </h3>
