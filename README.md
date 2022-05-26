@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - ⌨️ &nbsp; Java | Python | C | Go | Javascript
-- ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn
+- ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn | PyTorch
 - 🌐 &nbsp; React.js | HTML | CSS | Django | Node.js
 - 🛢 &nbsp; SQLlite | MySQL | PostgresSQL
 - 🔧 &nbsp; Git | Intellij | PyCharm | VSCode | Cloud9 | XCode | Vim | Micro | Jupyter Lab | ObservableHQ
