@@ -13,9 +13,9 @@
 
 - ⌨️ &nbsp; Java | Python | C | Go | Javascript
 - ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn
-- 🌐 &nbsp; React.js | HTML | CSS | Django| Swift | iOS
-- 🛢 &nbsp; SQLlite | MySQL | PostgresSQL | Firebase
-- 🔧 &nbsp; Git | Intellij | PyCharm | VSCode | Cloud9 | XCode | Micro | Jupyter Lab | ObservableHQ
+- 🌐 &nbsp; React.js | HTML | CSS | Django | Node.js
+- 🛢 &nbsp; SQLlite | MySQL | PostgresSQL
+- 🔧 &nbsp; Git | Intellij | PyCharm | VSCode | Cloud9 | XCode | Vim | Micro | Jupyter Lab | ObservableHQ
 - 👩🏼‍🎨 &nbsp; Adobe InDesign | Illustrator | Photoshop | Premiere
 
 <h3> 🤝🏻 Let's connect! </h3>
