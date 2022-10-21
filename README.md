@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 About Me </h3>
 
-- 💻 &nbsp; I’m looking for SWE Internship and AI/ML open source projects to contribute to!
+- 💻 &nbsp; I’m looking for a full-time 2023 SWE position
 - 💬 &nbsp; How to reach me: https://www.linkedin.com/in/marisatania/
 - 🦄 &nbsp; Pronouns: She/ Her/ Hers
 - 🌭 &nbsp; Hotdog and Not hotDog
@@ -13,7 +13,7 @@
 
 - ⌨️ &nbsp; Java | Python | C | Go | Javascript
 - ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn | PyTorch
-- 🌐 &nbsp; React.js | HTML | CSS | Django | Node.js
+- 🌐 &nbsp; React.js | HTML | CSS | Django | Node.js | D3
 - 🛢 &nbsp; SQLlite | MySQL | PostgresSQL
 - 🔧 &nbsp; Git | Intellij | PyCharm | VSCode | Cloud9 | XCode | Vim | Micro | Jupyter Lab | ObservableHQ
 - 👩🏼‍🎨 &nbsp; Adobe InDesign | Illustrator | Photoshop | Premiere
