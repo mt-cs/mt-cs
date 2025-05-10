@@ -2,7 +2,7 @@
 
 <h3> 👩🏻‍💻 About Me </h3>
 
-- 💻 &nbsp; I’m looking for a full-time 2023 SWE position
+- 💻 &nbsp; SWE @PayPal
 - 💬 &nbsp; How to reach me: https://www.linkedin.com/in/marisatania/
 - 🦄 &nbsp; Pronouns: She/ Her/ Hers
 - 🌭 &nbsp; Hotdog and Not hotDog
@@ -11,11 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ⌨️ &nbsp; Java | Python | C | Go | Javascript
-- ⚙️ &nbsp; Numpy | Pandas | Pomegranate | Tensor Flow | skLearn | PyTorch
+- ⌨️ &nbsp; Java | Kotlin | Python | C | Go | Javascript | Ruby
 - 🌐 &nbsp; React.js | HTML | CSS | Django | Node.js | D3
-- 🛢 &nbsp; SQLlite | MySQL | PostgresSQL
-- 🔧 &nbsp; Git | Intellij | PyCharm | VSCode | Cloud9 | XCode | Vim | Micro | Jupyter Lab | ObservableHQ
+- 🛢 &nbsp; Snowflake | AWS | SQL | MySQL | PostgresSQL
+- 🛞 &nbsp; Kafka | Docker | Kubernetes | Terraform
 - 👩🏼‍🎨 &nbsp; Adobe InDesign | Illustrator | Photoshop | Premiere
 
 <h3> 🤝🏻 Let's connect! </h3>
